@@ -25,7 +25,7 @@ Para usar este código em sua própria aplicação Node.js, siga estas etapas:
 1. Clone este repositório em seu ambiente de desenvolvimento:
 
    ```
-   git clone https://github.com/seu-usuario/repo-zlib-exemplo.git
+   git clone https://github.com/Felps03/repo-zlib-exemplo.git
    ```
 
 2. Instale as dependências necessárias:
