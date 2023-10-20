@@ -1,0 +1,28 @@
+# Arquivos e diretórios gerados pelo Node.js
+node_modules/
+npm-debug.log
+
+# Arquivos de log
+logs
+*.log
+npm-debug.log*
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de build
+/build
+
+# Dependências locais
+/local-dependency
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+.cache/

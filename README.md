@@ -1,5 +1,3 @@
-Claro, aqui está um exemplo de arquivo README explicando o uso do módulo zlib e fornecendo informações sobre o código:
-
 # README - Uso do Módulo zlib no Node.js
 
 Este repositório contém um exemplo de aplicação Node.js que utiliza o módulo zlib para comprimir dados JSON antes de enviá-los como resposta HTTP. O código demonstra como você pode aproveitar a compressão de dados para otimizar a transferência de dados em uma aplicação web.
@@ -51,3 +49,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções para este exemp
 ## Licença
 
 Este código está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades.# repo-zlib-exemplo
+# repo-zlib-exemplo
